@@ -12,7 +12,7 @@ Construo ferramentas que resolvem problemas reais — de SaaS a automações no 
 | [DecisionLab AI](https://github.com/brunocodec0/Decision-Lab) | SaaS de apoio à decisão estratégica com IA | Next.js · Supabase · Claude API |
 | [Assistente Financeiro no WhatsApp](https://github.com/brunocodec0/assistente-financeiro-whatsapp) | Controle financeiro pessoal por mensagens em linguagem natural | n8n · Gemini · Groq · Google Sheets |
 | [Gancho](https://github.com/brunocodec0/gancho) | SaaS de geração diária de conteúdo para criadores com IA | Next.js · Supabase · Claude API |
-
+| [Automação de Documentos](https://brunocodec0.github.io/automacao-termos/) | Geração automática de documentos internos para empresa júnior | HTML · JS · Google Sheets |
 ---
 
 ## 🛠️ Stack
